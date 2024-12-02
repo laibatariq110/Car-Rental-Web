@@ -1,14 +1,15 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <meta charset="utf-8" />
-    <title>Redirecting...</title>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>404 Not Found</title>
     <script>
-      // Preserve the current path
-      const redirectTo = window.location.pathname.replace('/Car-Rental-Web/', '');
-      // Redirect to the root with the path appended
-      window.location.href = '/Car-Rental-Web/?redirect=' + redirectTo;
+      // Redirect all 404 requests to the index.html page
+      window.location.replace('/Car-Rental-Web/');
     </script>
   </head>
-  <body></body>
+  <body>
+  </body>
 </html>
