@@ -15,7 +15,7 @@ const ContactSec = () => {
         </div>
         <div class="mb-3">
             <label for="phone" class="form-label fw-bold">Phone Number</label>
-            <input required  type="tel" pattern="[0-9]{10}" class="form-control" id="phone" placeholder="Enter your phone number"/>
+            <input required  type="tel" pattern="^\+?[0-9]{9,13}$" maxLength="12" class="form-control" id="phone" placeholder="Enter your phone number"/>
         </div>
         <div class="mb-3">
             <label for="message" class="form-label fw-bold">Message</label>

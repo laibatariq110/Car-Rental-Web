@@ -12,7 +12,7 @@ const WhyUsSec = () => {
         <p className=" fw-bold text-center mb-2">Experience <span>top-tier</span> vehicles at prices you can afford</p>
     </div>
         
-        <img src="/3cars.png" alt="Cars picture" className="mt-5 why-us-above-pic w-75 mx-auto d-block" />
+        <img src="./3cars.png" alt="Cars picture" className="mt-5 why-us-above-pic w-75 mx-auto d-block" />
 
         <div className="container why-us-div mt-5 text-md-start text-center">
 

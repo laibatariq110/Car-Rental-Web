@@ -3,7 +3,7 @@ import Header from '../../../../Header';
 import ContactSec from '../../../../ContactSec';
 import Footer from '../../../../Footer';
 
-const About = () => {
+const Contact = () => {
     return (
       <>
         <Header/>
@@ -13,4 +13,4 @@ const About = () => {
     );
   };
   
-  export default About;
+  export default Contact;

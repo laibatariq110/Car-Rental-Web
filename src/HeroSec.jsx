@@ -14,7 +14,7 @@ const HeroSec = () => {
             </div>
         </div>
         <div className='col-md-6'>
-            <img src='/hero-sec-car.png' alt='Car Image' className='img-fluid'></img>
+            <img src='./hero-sec-car.png' alt='Car Image' className='img-fluid'></img>
         </div>
     </div>
     </section>

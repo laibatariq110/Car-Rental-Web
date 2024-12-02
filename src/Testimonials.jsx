@@ -17,7 +17,7 @@ const Testimonals = () => {
             <div className="carousel-inner">
                 <div className="carousel-item active">
                     <div className="testimonial-review">
-                        <img src="/review-pic1.png" alt="Profile Picture" className='testimonial-pfp'/>
+                        <img src="./review-pic1.png" alt="Profile Picture" className='testimonial-pfp'/>
                         <h5 className='testimonial-name'>Sofie Garcia</h5>
                         <p className='testimonial-text'>"Amazing service! The car was in perfect condition and the process was smooth. Highly recommended!"</p>
                         <div className="testimonial-stars">
@@ -32,7 +32,7 @@ const Testimonals = () => {
 
                 <div className="carousel-item">
                     <div className="testimonial-review">
-                        <img src="/review-pic2.png" alt="Profile Picture" className='testimonial-pfp'/>
+                        <img src="./review-pic2.png" alt="Profile Picture" className='testimonial-pfp'/>
                         <h5 className='testimonial-name'>Liam James</h5>
                         <p className='testimonial-text'>“Excellent service and very reliable cars. The booking process was seamless, and the car was spotless. Highly recommend!”</p>
                         <div className="testimonial-stars">
@@ -47,7 +47,7 @@ const Testimonals = () => {
 
                 <div className="carousel-item">
                     <div className="testimonial-review">
-                        <img src="/review-pic3.png" alt="Profile Picture" className='testimonial-pfp'/>
+                        <img src="./review-pic3.png" alt="Profile Picture" className='testimonial-pfp'/>
                         <h5 className='testimonial-name'>Ava Brown</h5>
                         <p className='testimonial-text'>“Had a great experience renting a luxury car. Customer service was top-notch, and the prices were fair. Will definitely use them again.”</p>
                         <div className="testimonial-stars">
@@ -62,7 +62,7 @@ const Testimonals = () => {
 
                 <div className="carousel-item">
                     <div className="testimonial-review">
-                        <img src="/review-pic4.png" alt="Profile Picture" className='testimonial-pfp'/>
+                        <img src="./review-pic4.png" alt="Profile Picture" className='testimonial-pfp'/>
                         <h5 className='testimonial-name'>Harry Edwards</h5>
                         <p className='testimonial-text'>“Easy to book, great variety of cars, and very affordable rates. The staff was super friendly and helpful. Five stars from me!”</p>
                         <div className="testimonial-stars">

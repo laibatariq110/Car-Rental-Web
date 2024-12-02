@@ -14,7 +14,7 @@ const Selection = () => {
     ];
     const carData = {
         "BMW M4": {
-            image: "/bmw.png",
+            image: "./bmw.png",
             pricePerDay: 150,
             details: {
             Brand: "BMW",
@@ -28,7 +28,7 @@ const Selection = () => {
         },
 
         "Ferrari SF90": {
-            image: "/ferrari.png",
+            image: "./ferrari.png",
             pricePerDay: 200,
             details: {
             Brand: "Ferrari",
@@ -42,7 +42,7 @@ const Selection = () => {
         },
 
         "Porsche Taycan": {
-            image: "/porsche.png",
+            image: "./porsche.png",
             pricePerDay: 180,
             details: {
             Brand: "Porsche",
@@ -56,7 +56,7 @@ const Selection = () => {
         },
 
         "Lamborghini Aventador": {
-            image: "/lambo.png",
+            image: "./lambo.png",
             pricePerDay: 280,
             details: {
             Brand: "Lamborghini",
@@ -70,7 +70,7 @@ const Selection = () => {
         },
 
         "Rolls Royce Cullinan": {
-            image: "/rollsroyce.png",
+            image: "./rollsroyce.png",
             pricePerDay: 300,
             details: {
             Brand: "Rolls Royce",
@@ -83,7 +83,7 @@ const Selection = () => {
             }
         },
         "Audi R8": {
-            image: "/audi.png",
+            image: "./audi.png",
             pricePerDay: 160,
             details: {
             Brand: "Audi",
